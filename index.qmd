@@ -1,0 +1,340 @@
+---
+title: "Données, information et savoirs"
+format: 
+  datactivist-revealjs:
+    css: |
+      @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap');
+    slide-level: 2
+editor: visual
+---
+
+## Cette présentation en ligne
+
+<https://samgoeta.github.io/donnees-information-savoirs/>
+
+Sources : <https://github.com/samgoeta/donnees-information-savoirs>
+
+Ces slides sont librement réutilisables selon les termes de la licence [Creative Commons 4.0 BY-SA](#0).
+
+![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png){fig-align="center" width="90" height="31"}
+
+# Syllabus du cours {background-color="#173541"}
+
+## Description du cours
+
+À l'ère dite du **big data**, l'attention portée sur les données toujours plus massives, véloces et diverses tend à occulter un phénomène plus large : celui de la **mise en données du monde** ou **"datafication"** selon l'expression de Kenneth Cukier.
+
+On ne numérise pas seulement des documents, mais **tous les aspects de la vie** qui sont capturés et mis en circulation sous la forme de données.
+
+Ce cours s'inscrit dans le mouvement de la **"data literacy"** qui considère que la compréhension et l'usage des données doivent devenir des **compétences essentielles** comme lire, écrire ou compter pour :
+
+-   Comprendre l'environnement informationnel contemporain
+-   Exercer son esprit critique
+-   Ne pas subir la **"boîte noire"** des données
+
+## La pyramide de l'information
+
+::::: columns
+::: {.column width="70%"}
+![](images/DIKW-Pyramid.png)
+:::
+
+::: {.column width="30%"}
+Le cours suit la figure courante de la **pyramide de l'information** qui positionne les données comme le matériau brut de l'information et du savoir.
+:::
+:::::
+
+## Objectifs pédagogiques
+
+Les données apparaissent souvent comme un objet lointain, réservé à une élite de spécialistes. **Ce cours vise à démocratiser leur compréhension.**
+
+À l'issue de ce cours, vous serez capables de :
+
+-   Intégrer une dimension données dans la compréhension des enjeux informationnels
+-   Être capable de comprendre les enjeux liés aux données
+-   Avoir des éléments de compréhension sur la circulation et la réutilisation des données
+-   Découvrir les nouvelles pratiques et les métiers associés aux données
+
+## Compétences acquises
+
+Concrètement, vous développerez les compétences suivantes :
+
+-   Être **à l'aise** avec les notions de données, visualisation, data science et IA
+-   **Comprendre** des métadonnées et le contenu d'un jeu de données
+-   **Apprendre à chercher** des données pour ne pas se contenter d'informations pré-mâchées
+-   **Réaliser** de premières analyses et visualisations
+
+## Format pédagogique : la classe inversée
+
+Le cours prend la forme d'une **classe inversée** :
+
+::::: columns
+::: {.column width="50%"}
+### Avant chaque séance
+
+-   Visionnage des enseignements magistraux sur **Amupod**
+-   Préparation des notions clés
+:::
+
+::: {.column width="50%"}
+### Pendant chaque séance
+
+1.  **Quiz** d'évaluation + explications
+2.  **Activité** de mise en pratique
+3.  **Témoignage** ou travail podcast
+:::
+:::::
+
+## Plan du cours - Vue d'ensemble
+
+Le cours est découpé en **cinq séances** thématiques :
+
+::::: columns
+::: {.column width="50%"}
+1.  **Les données dans leur diversité**
+2.  **Open data et circulation des données**
+3.  **Visualisation des données**
+:::
+
+::: {.column width="50%"}
+4.  **Data science**
+5.  **Intelligence artificielle**
+:::
+:::::
+
+## Modalités d'évaluation
+
+La note finale se compose de deux éléments équilibrés :
+
+::::: columns
+::: {.column width="50%"}
+### Quiz (/10)
+
+-   Moyenne des quiz de début de séance
+-   Sur la plateforme **Equinox**
+-   En présentiel uniquement
+:::
+
+::: {.column width="50%"}
+### Podcast Disquette (/10)
+
+-   En groupe de 4-5 personnes
+-   À rendre le **24 octobre 2025**
+-   Consignes à la prochaine séance
+:::
+:::::
+
+## Critères d'évaluation du podcast
+
+Votre podcast sera évalué selon quatre critères :
+
+-   **Clarté et qualité** du podcast
+-   **Compréhension** des enjeux numériques
+-   **Présentation** de l'œuvre choisie
+-   **Qualité** de la critique développée
+
+L'objectif est de démontrer votre capacité à analyser de manière critique les enjeux liés aux données.
+
+## Balises d'usage de l'IA
+
+Conformément aux préconisations de la convention citoyenne universitaire sur l'IA générative :
+
+::::: columns
+::: {.column width="50%"}
+### Quiz : Niveau 0 🚫
+
+-   **Utilisation interdite**
+-   Évaluations sur Equinox
+-   Aucune aide externe autorisée
+:::
+
+::: {.column width="50%"}
+### Podcast : Niveau 2 ⚠️
+
+-   **Utilisation limitée**
+-   Amélioration d'un travail produit
+-   Script écrit **sans IA**
+-   Exercice créatif personnel
+:::
+:::::
+
+# Introduction : la notion de données {background-color="#173541"}
+
+## Les données, ça vous évoque quoi ?
+
+<iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/XNJQDS/questions/68c0a547a7e1dc8509a86629" width="100%">
+
+</iframe>
+
+## Les données, ça vous évoque quoi ?
+
+<iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/XNJQDS/questions/68c0b77950747a3c8004a74e" width="100%">
+
+</iframe>
+
+## La pyramide de l'information et du savoir
+
+::::: columns
+::: {.column width="70%"}
+![](images/DIKW-Pyramid.png)
+:::
+
+::: {.column width="30%"}
+Quelles critiques feriez-vous de ce modèle ?
+:::
+:::::
+
+## Une tentative de définition exhaustive
+
+::::: columns
+::: {.column width="70%"}
+> Les données sont généralement comprises comme étant la **matière première** produite dans **l’abstraction du monde** en catégories, mesures et autres formes de représentation - nombres, caractères, symboles, images, sons, ondes électromagnétiques, bits - qui constituent les **fondations sur lesquelles l’information et le savoir sont créés.**
+:::
+
+::: {.column width="30%"}
+![](https://datactivist.coop/oraccle/comprendre_open_data/img/kitchin.png)
+:::
+:::::
+
+## Challenge : simplifiez cette définition pour un enfant de 7 ans
+
+::::: columns
+::: {.column width="50%"}
+> Les données sont généralement comprises comme étant la matière première produite dans l’abstraction du monde en catégories, mesures et autres formes de représentation - nombres, caractères, symboles, images, sons, ondes électromagnétiques, bits - qui constituent les fondations sur lesquelles l’information et le savoir sont créés.
+:::
+
+::: {.column width="50%"}
+<iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/XNJQDS/questions/68c0ba44b63c0d5157210640" width="100%"></iframe>
+:::
+:::::
+
+# Quiz sur la vidéo sur la diversité des données {background-color="#173541"}
+
+
+# Activité : Les faits divers de l'open data {background-color="#173541"}
+
+## Le point de départ
+![](images/reddit-saladedepdt.png)
+
+## 🎯 Objectifs de l'activité
+
+### Découvrir par la pratique
+- La richesse des données publiques sur **data.gouv.fr**
+- La structure d'une base de données (enregistrements, champs, documentation)
+- L'utilisation de l'explorateur de données
+
+### Développer un regard critique
+- Trouver la "bonne" donnée
+- Apprendre à filtrer et analyser
+- Dénicher une trouvaille dans une grande base de données
+
+## 🍄 Étape 1 : Trouver votre "coin à champignons" (binôme - 30min) 
+
+::::: columns
+::: {.column .text-white width="60%"}
+### Mission
+Identifiez une base de données **riche et prometteuse** sur data.gouv.fr
+
+### Méthode
+1. **Explorez les thématiques** : Culture, Sport, Éducation, Transports...
+2. **Sélectionnez une base** avec plusieurs milliers d'enregistrements
+3. **Vérifiez la richesse** : informations variées et surprenantes possibles
+:::
+
+::: {.column .text-white width="40%"}
+### Critères d'un bon "coin"
+- ✅ Documentation claire
+- ✅ Données récentes
+- ✅ Plusieurs champs intéressants
+- ✅ Possibilité de filtres
+
+### Livrable
+Renseignez dans **Notion** : nom, URL, producteur, nombre d'enregistrements, justification
+:::
+:::::
+
+## 🎣 Étape 2 : pêche aux faits divers (binôme - 80min)
+
+::::: columns
+::: {.column width="50%"}
+### Mission
+Utilisez l'**explorateur de données** pour dénicher des informations **insolites, drôles ou surprenantes**
+
+### Techniques de recherche
+- **Mots-clés** : termes amusants, noms insolites
+- **Filtres numériques** : valeurs extrêmes
+- **Filtres géographiques** : comparaisons
+- **Filtres temporels** : évolutions surprenantes
+:::
+
+::: {.column width="50%"}
+### Méthode de travail
+1. **Lisez la documentation** complète
+2. **Testez les filtres** : combinaisons variées
+3. **Triez les données** : cherchez les extrêmes
+4. **Cherchez certains termes** : découvertes inattendues
+
+### Livrable : 3 faits divers
+Pour chacun : fait formulé, URL, nom du groupe
+:::
+:::::
+
+## Exemples d'inspiration
+
+::::: columns
+::: {.column width="50%"}
+### 🏷️ Marques déposées
+> *"En 2020, 6 marques déposées incluent le mot 'merde' dans leur appellation, dont une marque de cosmétique 'Cacachic'"*
+:::
+
+::: {.column width="50%"}
+### ✈️ Déplacements officiels  
+> *"JP Raffarin comptabilise plus de déplacements (427) en 3 ans que François Mitterrand (356) en 14 ans de présidence"*
+:::
+:::::
+
+[L'objectif est de développer votre **curiosité** et vos **compétences d'analyse** !]{style="color: #E95459;"}
+
+## Étape 3 : Vote et débriefing (10min) {background-color="#173541"}
+
+### Critères de vote
+- **Originalité** : caractère inattendu
+- **Humour** : capacité à surprendre
+- **Qualité de recherche** : méthodologie
+- **Présentation** : clarté et accroche
+:::
+
+## 💡 Conseils pratiques
+
+::::: columns
+::: {.column width="50%"}
+### Pour bien démarrer
+- Prenez le temps de lire la **documentation complète**
+- Testez d'abord des **filtres simples**
+- N'hésitez pas à **changer de base** si nécessaire
+
+### Pour optimiser
+- Notez vos tentatives même infructueuses
+- Variez les approches (alphabétique, numérique...)
+- Pensez aux **jeux de mots** et homonymes
+:::
+
+::: {.column width="50%"}
+### Bases de données riches suggérées
+- Fichier des **prénoms** (INSEE)
+- Base des **élus**
+- Données de la **délinquance**
+- **Objets trouvés** SNCF
+- **Festivals** en France
+- **Résultats électoraux**
+
+**Explorateur** : [explore.data.gouv.fr](https://explore.data.gouv.fr)
+:::
+:::::
+
+# Des questions ? {background-color="#173541"}
+
+Contact : [samuel.goeta@sciencespo-aix.fr](mailto:samuel.goeta@sciencespo-aix.fr)
+# Des questions ? {background-color="#173541"}
+
+Contact : [samuel.goeta\@sciencespo-aix.fr](mailto:samuel.goeta@sciencespo-aix.fr)
