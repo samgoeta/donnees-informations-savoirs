@@ -261,7 +261,7 @@ Renseignez dans **Notion** : nom, URL, producteur, nombre d'enregistrements, jus
 :::
 :::::
 
-## 🍄 Partagez votre "coin à champignons"
+## 🍄 Votre "coin à champignons"
 
 <iframe src="https://samgoeta.notion.site/ebd/269f8843ac55804b8a21d04332de1a9d" width="100%" height="600" frameborder="0" allowfullscreen>
 
