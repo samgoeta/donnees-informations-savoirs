@@ -204,77 +204,95 @@ Quelles critiques feriez-vous de ce modèle ?
 :::
 
 ::: {.column width="50%"}
-<iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/XNJQDS/questions/68c0ba44b63c0d5157210640" width="100%"></iframe>
+<iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/XNJQDS/questions/68c0ba44b63c0d5157210640" width="100%">
+
+</iframe>
 :::
 :::::
 
 # Quiz sur la vidéo sur la diversité des données {background-color="#173541"}
 
-
 # Activité : Les faits divers de l'open data {background-color="#173541"}
 
 ## Le point de départ
+
 ![](images/reddit-saladedepdt.png)
 
 ## 🎯 Objectifs de l'activité
 
 ### Découvrir par la pratique
-- La richesse des données publiques sur **data.gouv.fr**
-- La structure d'une base de données (enregistrements, champs, documentation)
-- L'utilisation de l'explorateur de données
+
+-   La richesse des données publiques sur **data.gouv.fr**
+-   La structure d'une base de données (enregistrements, champs, documentation)
+-   L'utilisation de l'explorateur de données
 
 ### Développer un regard critique
-- Trouver la "bonne" donnée
-- Apprendre à filtrer et analyser
-- Dénicher une trouvaille dans une grande base de données
 
-## 🍄 Étape 1 : Trouver votre "coin à champignons" (binôme - 30min) 
+-   Trouver la "bonne" donnée
+-   Apprendre à filtrer et analyser
+-   Dénicher une trouvaille dans une grande base de données
+
+## 🍄 Étape 1 : Trouver votre "coin à champignons" (binôme - 30min)
 
 ::::: columns
 ::: {.column .text-white width="60%"}
 ### Mission
+
 Identifiez une base de données **riche et prometteuse** sur data.gouv.fr
 
 ### Méthode
-1. **Explorez les thématiques** : Culture, Sport, Éducation, Transports...
-2. **Sélectionnez une base** avec plusieurs milliers d'enregistrements
-3. **Vérifiez la richesse** : informations variées et surprenantes possibles
+
+1.  **Explorez les thématiques** : Culture, Sport, Éducation, Transports...
+2.  **Sélectionnez une base** avec plusieurs milliers d'enregistrements
+3.  **Vérifiez la richesse** : informations variées et surprenantes possibles
 :::
 
 ::: {.column .text-white width="40%"}
 ### Critères d'un bon "coin"
-- ✅ Documentation claire
-- ✅ Données récentes
-- ✅ Plusieurs champs intéressants
-- ✅ Possibilité de filtres
+
+-   ✅ Documentation claire
+-   ✅ Données récentes
+-   ✅ Plusieurs champs intéressants
+-   ✅ Possibilité de filtres
 
 ### Livrable
+
 Renseignez dans **Notion** : nom, URL, producteur, nombre d'enregistrements, justification
 :::
 :::::
+
+## 🍄 Partagez votre "coin à champignons"
+
+<iframe src="https://samgoeta.notion.site/ebd/269f8843ac55804b8a21d04332de1a9d" width="100%" height="600" frameborder="0" allowfullscreen>
+
+</iframe>
 
 ## 🎣 Étape 2 : pêche aux faits divers (binôme - 80min)
 
 ::::: columns
 ::: {.column width="50%"}
 ### Mission
+
 Utilisez l'**explorateur de données** pour dénicher des informations **insolites, drôles ou surprenantes**
 
 ### Techniques de recherche
-- **Mots-clés** : termes amusants, noms insolites
-- **Filtres numériques** : valeurs extrêmes
-- **Filtres géographiques** : comparaisons
-- **Filtres temporels** : évolutions surprenantes
+
+-   **Mots-clés** : termes amusants, noms insolites
+-   **Filtres numériques** : valeurs extrêmes
+-   **Filtres géographiques** : comparaisons
+-   **Filtres temporels** : évolutions surprenantes
 :::
 
 ::: {.column width="50%"}
 ### Méthode de travail
-1. **Lisez la documentation** complète
-2. **Testez les filtres** : combinaisons variées
-3. **Triez les données** : cherchez les extrêmes
-4. **Cherchez certains termes** : découvertes inattendues
+
+1.  **Lisez la documentation** complète
+2.  **Testez les filtres** : combinaisons variées
+3.  **Triez les données** : cherchez les extrêmes
+4.  **Cherchez certains termes** : découvertes inattendues
 
 ### Livrable : 3 faits divers
+
 Pour chacun : fait formulé, URL, nom du groupe
 :::
 :::::
@@ -284,11 +302,13 @@ Pour chacun : fait formulé, URL, nom du groupe
 ::::: columns
 ::: {.column width="50%"}
 ### 🏷️ Marques déposées
+
 > *"En 2020, 6 marques déposées incluent le mot 'merde' dans leur appellation, dont une marque de cosmétique 'Cacachic'"*
 :::
 
 ::: {.column width="50%"}
-### ✈️ Déplacements officiels  
+### ✈️ Déplacements officiels
+
 > *"JP Raffarin comptabilise plus de déplacements (427) en 3 ans que François Mitterrand (356) en 14 ans de présidence"*
 :::
 :::::
@@ -298,43 +318,12 @@ Pour chacun : fait formulé, URL, nom du groupe
 ## Étape 3 : Vote et débriefing (10min) {background-color="#173541"}
 
 ### Critères de vote
-- **Originalité** : caractère inattendu
-- **Humour** : capacité à surprendre
-- **Qualité de recherche** : méthodologie
-- **Présentation** : clarté et accroche
-:::
 
-## 💡 Conseils pratiques
-
-::::: columns
-::: {.column width="50%"}
-### Pour bien démarrer
-- Prenez le temps de lire la **documentation complète**
-- Testez d'abord des **filtres simples**
-- N'hésitez pas à **changer de base** si nécessaire
-
-### Pour optimiser
-- Notez vos tentatives même infructueuses
-- Variez les approches (alphabétique, numérique...)
-- Pensez aux **jeux de mots** et homonymes
-:::
-
-::: {.column width="50%"}
-### Bases de données riches suggérées
-- Fichier des **prénoms** (INSEE)
-- Base des **élus**
-- Données de la **délinquance**
-- **Objets trouvés** SNCF
-- **Festivals** en France
-- **Résultats électoraux**
-
-**Explorateur** : [explore.data.gouv.fr](https://explore.data.gouv.fr)
-:::
-:::::
+-   **Originalité** : caractère inattendu
+-   **Humour** : capacité à surprendre
+-   **Qualité de recherche** : méthodologie
+-   **Présentation** : clarté et accroche
 
 # Des questions ? {background-color="#173541"}
 
-Contact : [samuel.goeta@sciencespo-aix.fr](mailto:samuel.goeta@sciencespo-aix.fr)
-# Des questions ? {background-color="#173541"}
-
-Contact : [samuel.goeta\@sciencespo-aix.fr](mailto:samuel.goeta@sciencespo-aix.fr)
+Contact : [samuel.goeta\@sciencespo-aix.fr](mailto:samuel.goeta@sciencespo-aix.fr) \# Des questions ? {background-color="#173541"}
