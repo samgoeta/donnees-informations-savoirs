@@ -1,9 +1,9 @@
 ---
 title: "Données, information et savoirs"
-format: 
+format:
   datactivist-revealjs:
     css: |
-      @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap');
+      @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap");
     slide-level: 2
 editor: visual
 ---
@@ -232,11 +232,13 @@ Quelles critiques feriez-vous de ce modèle ?
 -   Apprendre à filtrer et analyser
 -   Dénicher une trouvaille dans une grande base de données
 
-## 🍄 Étape 1 : Trouver votre "coin à champignons" (binôme - 30min) {background-color="#173541"}
+# 🍄 Étape 1 : Trouver votre "coin à champignons" (binôme - 30min) {background-color="#173541"}
+
+## 
 
 ::::: columns
-::: {.column .text-white width="60%"}
-### Mission
+::: {.column width="60%"}
+### Votre mission
 
 Identifiez une base de données **riche et prometteuse** sur data.gouv.fr
 
@@ -247,17 +249,67 @@ Identifiez une base de données **riche et prometteuse** sur data.gouv.fr
 3.  **Vérifiez la richesse** : informations variées et surprenantes possibles
 :::
 
-::: {.column .text-white width="40%"}
+::: {.column width="40%"}
 ### Critères d'un bon "coin"
 
 -   ✅ Documentation claire
--   ✅ Données récentes
+-   ✅ Données "granulaires" avec un grand niveau de détail
 -   ✅ Plusieurs champs intéressants
--   ✅ Possibilité de filtres
+-   ✅ Des informations originales
 
 ### Livrable
 
 Renseignez dans **Notion** : nom, URL, producteur, nombre d'enregistrements, justification
+:::
+:::::
+
+## Exemple de "coins à champignons"
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7184654189669539840" height="500" width="504" frameborder="0" allowfullscreen title="Post intégré">
+
+</iframe>
+
+------------------------------------------------------------------------
+
+### 💡Les réflexes devant un jeu de données
+
+:::::: columns
+::: {.column width="30%"}
+✅ Retenir le **nom** du jeu de données
+
+✅ Lire *attentivement* la **description**
+
+✅ Regarder le **format** (SHP, XML, JSON… c'est compliqué)
+
+✅ Regarder les **noms des fichiers**
+:::
+
+::: {.column width="40%"}
+![](images/Capture%20d’écran%202025-09-10%20à%2022.34.55-01.png)
+:::
+
+::: {.column width="30%"}
+✅ Connaître le **producteur** des données
+
+✅ Chercher si possible d'ouvrir sur un "**portail externe**"
+
+✅ Comprendre **à quoi correspond chaque ligne**
+
+✅ Comprendre le contenu des **colonnes**
+:::
+::::::
+
+------------------------------------------------------------------------
+
+### 💡 Conseil avec l'explorateur de données de data.gouv.fr
+
+::::: columns
+::: {.column width="40%"}
+Utilisez **le petit entonnoir** en haut de chaque colonne pour explorer les valeurs les plus fréquentes et faire des filtres :![](images/Capture%20d’écran%202025-09-10%20à%2022.42.40.png)
+:::
+
+::: {.column width="60%"}
+Les valeurs les plus fréquentes dans une colonne peuvent vous aider à comprendre les données : ![](images/Capture%20d’écran%202025-09-10%20à%2022.42.25.png){width="300"}
 :::
 :::::
 
@@ -267,11 +319,13 @@ Renseignez dans **Notion** : nom, URL, producteur, nombre d'enregistrements, jus
 
 </iframe>
 
-## 🎣 Étape 2 : pêche aux faits divers (binôme - 80min)
+# 🎣 Étape 2 : pêche aux faits divers (binôme - 80min) {background-color="#173541"}
+
+## 
 
 ::::: columns
 ::: {.column width="50%"}
-### Mission
+### Votre mission
 
 Utilisez l'**explorateur de données** pour dénicher des informations **insolites, drôles ou surprenantes**
 
@@ -291,7 +345,7 @@ Utilisez l'**explorateur de données** pour dénicher des informations **insolit
 3.  **Triez les données** : cherchez les extrêmes
 4.  **Cherchez certains termes** : découvertes inattendues
 
-### Livrable : 3 faits divers
+### Votre mission : trouver 3 faits divers
 
 Pour chacun : fait formulé, URL, nom du groupe
 :::
@@ -313,17 +367,164 @@ Pour chacun : fait formulé, URL, nom du groupe
 :::
 :::::
 
-[L'objectif est de développer votre **curiosité** et vos **compétences d'analyse** !]{style="color: #E95459;"}
+## 
 
-## Étape 3 : Vote et débriefing (10min) {background-color="#173541"}
+<iframe src="https://samgoeta.notion.site/ebd/26af8843ac55809988b8e38850900d20" width="100%" height="600" frameborder="0">
 
-### Critères de vote
+</iframe>
 
--   **Originalité** : caractère inattendu
--   **Humour** : capacité à surprendre
--   **Qualité de recherche** : méthodologie
--   **Présentation** : clarté et accroche
+# Étape 3 : Vote et débriefing (10min) {background-color="#173541"}
+
+## Les faits divers
+
+<iframe src="https://samgoeta.notion.site/ebd/26af8843ac5580a196c2d52903c9fc62?v=26af8843ac5580c496ad000ca35fe82c" width="100%" height="600" frameborder="0" allowfullscreen />
+
+### Votez !
+
+```{=html}
+<iframe src="https://samgoeta.notion.site/ebd/26af8843ac5580ffbc2ecfb5095668e0" width="100%" height="600" frameborder="0" allowfullscreen></iframe>
+```
+
+# La fresque des données ouvertes {background-color="#173541"}
+
+## De quoi parle-t-on ?
+
+Adaptée de la fresque du climat, cette **fresque des données ouvertes** permet aux agents de sensibiliser et de s'approprier les éléments contextuels et historiques, mais aussi les enjeux et les leviers qu'offre l'ouverture des données.
+
+Elle se déroule sous forme d'un **atelier participatif ludique**, où les participants utilisent des cartes de jeu représentant des éléments de l'écosystème des données ouvertes, et qu'ils doivent placer dans un ordre logique et relier les unes aux autres.
+
+Le **contenu pédagogique se trouve écrit sur les cartes**, et la fresque vous permet de vous l'approprier.
+
+Le jeu est animé par une personne qui apporte des compléments d'informations, questionne, réoriente le jeu.
+
+Le but du jeu est de comprendre les relations entre les différentes cartes, les causalités, les conséquences.
+
+A la fin du jeu, un temps d'échange permet de partager son expérience et son ressenti.
+
+## A quoi ça ressemble ?
+
+![](https://www.upssitech.eu/wp-content/uploads/2021/09/Fresque.jpg){fig-align="center" width="100%"}
+
+## Les consignes
+
+-   **Organisation pour 2 tables / des équipes** (entre 5 et 8 personnes par équipes)
+-   **Disposition des 41 cartes sur les tables**
+    -   Les cartes sont toutes mélangées et réparties sur la table
+-   **Étapes (en 1h15) :**
+    -   Prendre connaissance de **toutes les cartes**. [Notre conseil : Prendre le temps de lire les cartes]{style="color: #E95459;"}
+    -   Disposer les cartes sur la fresque dans un ordre logique, échanges, discussions, débats
+    -   Créer des liens de causalité entre les cartes, en les dessinant au feutre
+-   **Racontez-nous votre fresque**
+    -   3 questions : Qu'est ce que l'open data ? A quoi ça sert ? Comment on fait ?
+
+## L'état d'esprit : l'escape game
+
+::::: columns
+::: {.column width="40%"}
+![](images/escape.png)
+:::
+
+::: {.column width="60%"}
+[Rassurez-vous, vous sortirez tous de la salle à l'heure prévue !]{style="color: #E95459;"}
+
+**Quelques conseils pour réussir la fresque inspirés des escape games :**
+
+-   **communiquez !** quand vous avez une information, partagez là
+-   **fouillez !** enfin, non, tout est sur la table... Lisez attentivement les cartes
+-   **créez du lien !** à vous d'inventer le lien logique entre les cartes et donner du sens à la fresque
+-   **gardez un œil sur l'heure !** faites attention à ne pas perdre l'objectif final
+
+[Nous sommes vos game masters, appuyez vous sur nous mais c'est à vous de faire la fresque !]{style="color: #E95459;"}
+
+**Amusez-vous bien !**
+:::
+:::::
+
+## Racontez-nous vos fresques
+
+::::: columns
+::: {.column width="50%"}
+[En 3 minutes :]{style="color: #E95459;"}
+
+-   **Qu'est ce que l'open data ?**
+-   **A quoi ça sert ?**
+-   **Comment on fait ?**
+:::
+
+::: {.column width="50%"}
+![](images/communication_message_talk_argue_misunderstood_lostintranslation-2.png)
+:::
+:::::
+
+# Consignes pour le podcast Disquette {background-color="#173541"}
+
+
+## Disquette ?
+
+::::: columns
+::: {.column width="40%"}
+![](images/Logo%20Disquette-01.png)
+:::
+
+::: {.column width="60%"}
+Le numérique est partout mais, au milieu des récits alarmistes ou naïfs, il est difficile de repérer les bons contenus.
+
+Sur le principe des bibliothèques idéales qui recensent les meilleurs contenus sur un sujet, Disquette vous fait découvrir de nouveaux contenus autour des enjeux du numérique en dépassant les idées reçues.
+
+Documentaires, films, livres, BD, romans… tout a sa place dans Disquette.
+:::
+:::::
+
+## Episodes precedents
+
+[A ecouter avant d'enregistrer le votre !]{style="color: #E95459;"}
+
+![](images/Capture%20d’écran%202025-09-11%20à%2001.18.33.png)
+
+## Principes directeurs de Disquettes
+
+::::: columns
+::: {.column width="50%"}
+### Temps court
+
+**8-10 minutes maximum** par groupe/par documentaire pour que cela reste audible
+:::
+
+::: {.column width="50%"}
+### Format rythmé
+
+Plusieurs sequences identifiables avec alternance des voix, extraits, jingle...
+
+[Personne ne doit parler seul plus d'une minute]{style="color: #E95459;"}
+
+### Ligne éditoriale
+
+[Ce podcast est un "media" avec une ligne éditoriale pour le master comme l'est Chicane]{style="color: #E95459;"}
+:::
+:::::
+
+
+## Déroulement du podcast
+**1. Jingle de debut** |
+[À retrouver ici](https://public.3.basecamp.com/p/TUPJH2ud9g2BQDFWCNa1Dn4A) |
+
+**2. Résumé court** |
+Présenter le documentaire : qui, quoi, quand ? [Max 1min 30]{style="color: #E95459;"} 
+**3. Extraits commentés**
+- Un extrait commenté du documentaire par personne (1min par personne extrait compris)
+- En résumer les enjeux, faire attention à ce que l’on comprenne l’extrait qu’on vient d’entendre (une phrase pour la décrire).
+- Une personne par extrait mais il peut y avoir plusieurs voix, c'est souhaitable même. 
+- Quand l'extrait est en anglais, il faut le doubler.
+
+**4. À la fin : mise en perspective.** Résumer le “grand enjeu” du doc, voilà ce qu’il nous enseigne des enjeux numériques de l’info’. (1 minutes maximum)
+
+**5. Une critique**
+
+**6. Jingle de fin uniforme**
+
 
 # Des questions ? {background-color="#173541"}
 
-Contact : [samuel.goeta\@sciencespo-aix.fr](mailto:samuel.goeta@sciencespo-aix.fr) \# Des questions ? {background-color="#173541"}
+## Des retours ?
+
+Contact : [samuel.goeta\@sciencespo-aix.fr](mailto:samuel.goeta@sciencespo-aix.fr) :::::: ::::::::

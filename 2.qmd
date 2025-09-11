@@ -1,0 +1,88 @@
+---
+title: "Données, information et savoirs"
+format:
+  datactivist-revealjs:
+    css: |
+      @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap");
+    slide-level: 2
+editor: visual
+---
+
+# La fresque de l'open data {background-color="#173541"}
+
+## La fresque des données ouvertes
+
+Adaptée de la fresque du climat, cette **fresque des données ouvertes** permet aux agents de sensibiliser et de s'approprier les éléments contextuels et historiques, mais aussi les enjeux et les leviers qu'offre l'ouverture des données.
+
+Elle se déroule sous forme d'un **atelier participatif ludique**, où les participants utilisent des cartes de jeu représentant des éléments de l'écosystème des données ouvertes, et qu'ils doivent placer dans un ordre logique et relier les unes aux autres.
+
+Le **contenu pédagogique se trouve écrit sur les cartes**, et la fresque vous permet de vous l'approprier.
+
+Le jeu est animé par une personne qui apporte des compléments d'informations, questionne, réoriente le jeu.
+
+Le but du jeu est de comprendre les relations entre les différentes cartes, les causalités, les conséquences.
+
+A la fin du jeu, un temps d'échange permet de partager son expérience et son ressenti.
+
+---
+### Les consignes
+
+- Environ 8-10 personnes par équipes
+
+- Disposition des 41 cartes sur les tables
+
+- Les cartes sont toutes mélangées et réparties sur la table
+
+- Prendre connaissance de **toutes les cartes**. Prendre le temps de lire les cartes
+
+- Disposer les cartes sur la fresque **dans un ordre logique** en débattant
+
+- Créer des liens de causalité entre les cartes, en les dessinant au feutre
+
+- Racontez-nous la fresque : qu'est ce que l'open data ? A quoi ça sert ? Comment on fait ?
+
+---
+### L'état d'esprit : l'escape game
+
+::::: columns
+::: {.column width="40%"}
+![](images/escape.png)
+:::
+
+::: {.column width="60%"}
+[Rassurez-vous, vous sortirez tous de la salle à l'heure prévue !]{style="color: #E95459;"}
+
+**Quelques conseils pour réussir la fresque inspirés des escape games :**
+
+-   **communiquez !** quand vous avez une information, partagez là
+-   **fouillez !** enfin, non, tout est sur la table... Lisez attentivement les cartes
+-   **créez du lien !** à vous d'inventer le lien logique entre les cartes et donner du sens à la fresque
+-   **gardez un œil sur l'heure !** faites attention à ne pas perdre l'objectif final
+
+[Je suis votre game master, appuyez vous sur moi mais c'est à vous de faire la fresque !]{style="color: #E95459;"}
+
+**Amusez-vous bien !**
+:::
+:::::
+
+---
+### Il est temps de jouer ! {background-color="#173541"}
+
+![](images/run_man-01.png){width="337"}
+
+[⏲ 75 minutes]{style="color: #E95459; font-size: 3em;"}
+
+## Racontez-nous vos fresques
+
+::::: columns
+::: {.column width="50%"}
+[En 3 minutes :]{style="color: #E95459;"}
+
+-   **Qu'est ce que l'open data ?**
+-   **A quoi ça sert ?**
+-   **Comment on fait ?**
+:::
+
+::: {.column width="50%"}
+![](images/communication_message_talk_argue_misunderstood_lostintranslation-2.png){width="416"}
+:::
