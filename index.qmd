@@ -602,28 +602,29 @@ Les tableaux croisés dynamiques permettent de :
 
 ## Comment créer une pivot table
 
-:::::::: columns
-:::: {.column width="50%"}
-### 1. Importer données brutes
+::::: {.columns}
+::: {.column width="40%"}
+![](images/pivot_interface.png)
+:::
+
+::: {.column width="60%"}
+**1. Importer données brutes**
 
 -   Google Sheets : Fichier → Importer
 -   Vérifier colonnes bien séparées
 -   Nettoyer données manquantes
 
-### ⚡ 2. Créer la pivot table
+**2. Créer la pivot table**
 
 -   Sélectionner toutes les données
 -   **Insertion → Tableau croisé dynamique**
 -   Choisir "Nouvelle feuille"
 
-### 3. Configurer
+**3. Configurer**
 
 -   **Lignes :** Variable à regrouper
 -   **Valeurs :** Variable à calculer\
 -   **Fonction :** MOYENNE, SOMME, NOMBRE
-
-::: {.column width="50%"}
-![](images/pivot_interface.png)
 :::
 ::::
 
@@ -632,20 +633,25 @@ Les tableaux croisés dynamiques permettent de :
 Je vous conseille d'utiliser les données que vous avez exploré lors de la dernière séance.
 
 Sinon vous pouvez vous appuyer sur les données identifiées par les autres binômes : 
-https://samgoeta.notion.site/269f8843ac558054819cea8f617c8f6f?v=269f8843ac5580daba3f000cb32c3e95&pvs=74
+[données identifiées](https://samgoeta.notion.site/269f8843ac558054819cea8f617c8f6f?v=269f8843ac5580daba3f000cb32c3e95&pvs=74)
 
 ## A vous de produire une dataviz
 
-::::: columns
+:::: columns
 ::: {.column width="40%"}
 ![](images/graphex.png)
 :::
 
 ::: {.column width="60%"}
+
 ✅ Titre annonce le contenu 
+
 ✅ Sous-titre explique la nature des données 
+
 ✅ La dataviz fait passer un message
+
 ✅ Le format est adapté à votre intention 
+
 ✅ Vous donnez une ou plusieurs clés de lecture
 :::
 :::::
@@ -654,29 +660,36 @@ https://samgoeta.notion.site/269f8843ac558054819cea8f617c8f6f?v=269f8843ac5580da
 
 Chaque groupe évaluera le travail d'un autre selon **3 critères :**
 
-### 🎯 RIGUEUR
+:::: {.columns}
+
+::: {.column width="40%"}
+![](https://datawrapper.de/cdn-cgi/image/quality=85,width=1920,f=auto,fit=cover/https://kirby.datawrapper.de/media/pages/blog/how-to-get-started-with-data-visualization/be181ebb37-1740123205/Artboard-11-copy-11.png)
+:::
+
+::: {.column width="60%"}
+
+**🎯 RIGUEUR**
 
 -   Nature des données explicite
 -   Échelles appropriées
 -   Source mentionnée
 
-### 👁️ LISIBILITÉ
+**👁️LISIBILITE**
 
 -   Format adapté au message
 -   Visualisation claire
 -   Guides de lecture efficaces
 
-### 💬 ÉLOQUENCE
+**💬 ÉLOQUENCE**
 
 -   Message clair et direct
 -   Titre évocateur
 -   Points saillants mis en avant
+:::
 
-### 🗣️ Questions à se poser
+::::
 
--   Message immédiatement compréhensible ?
--   Choix du graphique justifié ?
--   Éléments qui prêtent à confusion ?
+
 
 # Des questions ? {background-color="#173541"}
 ::::::::
