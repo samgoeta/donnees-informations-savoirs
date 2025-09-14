@@ -238,28 +238,30 @@ Quelles critiques feriez-vous de ce modèle ?
 
 ## Votre mission
 
-Identifiez une base de données **riche et prometteuse** sur data.gouv.fr ::::: columns ::: {.column width="60%"}
+Identifiez une base de données **riche et prometteuse** sur data.gouv.fr
 
+::::: columns
+::: {.column width="40%"}
 #### Méthode
 
 1.  **Explorez les thématiques** : Culture, Sport, Éducation, Transports...
 2.  **Sélectionnez une base** avec plusieurs milliers d'enregistrements
-3.  **Vérifiez la richesse** : informations variées et surprenantes possibles :::
+3.  **Vérifiez la richesse** : informations variées et surprenantes possibles
+:::
 
-::: {.column width="40%"}
+::: {.column width="60%"}
 #### Critères d'un bon "coin"
 
 -   ✅ Documentation claire
 -   ✅ Données "granulaires" avec un grand niveau de détail
 -   ✅ Plusieurs champs intéressants
 -   ✅ Des informations originales
+:::
+:::::
 
 #### Vous avez trouvé ?
 
 Renseignez dans **Notion** : nom, URL, producteur, nombre d'enregistrements, justification
-:::
-
-:::::
 
 ## Exemple de "coins à champignons"
 
@@ -561,7 +563,7 @@ Vous allez produire une dataviz à partir des données que vous avez identifiée
 :::
 
 ::: {.column width="50%"}
-** 📋 Des données brutes**
+\*\* 📋 Des données brutes\*\*
 
 ```         
 ID | Objet | Montant | Offres
@@ -580,11 +582,9 @@ ID | Objet | Montant | Offres
 
 Source : "[A friendly guide to choosing a chart type](https://www.datawrapper.de/blog/chart-types-guide) de Datawrapper, un MUST pour choisir le bon format de visualisation en fonction de votre intention"
 
-
 ## Les tableaux croisés dynamiques
 
-:::: {.columns}
-
+::::: columns
 ::: {.column width="50%"}
 Ils sont essentiels pour transformer vos **données brutes** en **données visualisables**
 
@@ -598,14 +598,13 @@ Les tableaux croisés dynamiques permettent de :
 ::: {.column width="50%"}
 ![](images/pivot.png)
 :::
-
 :::::
 
 ## Comment créer une pivot table
 
-::::: columns
-::: {.column width="50%"}
-### 📂 1. Importer données brutes
+:::::::: columns
+:::: {.column width="50%"}
+### 1. Importer données brutes
 
 -   Google Sheets : Fichier → Importer
 -   Vérifier colonnes bien séparées
@@ -617,52 +616,41 @@ Les tableaux croisés dynamiques permettent de :
 -   **Insertion → Tableau croisé dynamique**
 -   Choisir "Nouvelle feuille"
 
-### ⚙️ 3. Configurer
+### 3. Configurer
 
 -   **Lignes :** Variable à regrouper
 -   **Valeurs :** Variable à calculer\
 -   **Fonction :** MOYENNE, SOMME, NOMBRE
 
-
 ::: {.column width="50%"}
 ![](images/pivot_interface.png)
-
 :::
-:::::
-
-------------------------------------------------------------------------
+::::
 
 ## Choisir votre base de données
 
-Je vous conseille d'utiliser les données que vous avez exploré lors de la dernière séance. 
+Je vous conseille d'utiliser les données que vous avez exploré lors de la dernière séance.
 
 Sinon vous pouvez vous appuyer sur les données identifiées par les autres binômes : 
-<iframe src="/ebd/269f8843ac558054819cea8f617c8f6f?v=269f8843ac5580daba3f000cb32c3e95" width="100%" height="300" frameborder="0" allowfullscreen />
+https://samgoeta.notion.site/269f8843ac558054819cea8f617c8f6f?v=269f8843ac5580daba3f000cb32c3e95&pvs=74
 
 ## A vous de produire une dataviz
 
-:::: {.columns}
-
+::::: columns
 ::: {.column width="40%"}
 ![](images/graphex.png)
 :::
 
 ::: {.column width="60%"}
-✅ Titre annonce le contenu
-✅ Sous-titre explique la nature des données
+✅ Titre annonce le contenu 
+✅ Sous-titre explique la nature des données 
 ✅ La dataviz fait passer un message
-✅ Le format est adapté à votre intention
+✅ Le format est adapté à votre intention 
 ✅ Vous donnez une ou plusieurs clés de lecture
 :::
-
-::::
-------------------------------------------------------------------------
+:::::
 
 ## Évaluation par les pairs
-
-::::: columns
-::: {.column width="50%"}
-### 📤 Dépôt sur Equinox + Évaluation croisée
 
 Chaque groupe évaluera le travail d'un autre selon **3 critères :**
 
@@ -689,57 +677,6 @@ Chaque groupe évaluera le travail d'un autre selon **3 critères :**
 -   Message immédiatement compréhensible ?
 -   Choix du graphique justifié ?
 -   Éléments qui prêtent à confusion ?
-:::
-
-::: {.column width="50%"}
-![](images/evaluation_criteria.png)
-
-*Grille d'évaluation des 3 critères*
-:::
-:::::
-
-------------------------------------------------------------------------
-
-## À vous de jouer !
-
-::::: columns
-::: {.column width="50%"}
-### 📋 Checklist technique
-
-✅ Base de données choisie\
-✅ Données importées Google Sheets\
-✅ **Pivot table créée et configurée**\
-✅ CSV exporté vers Datawrapper\
-✅ Graphique adapté sélectionné\
-✅ Dataviz publiée
-
-### 📊 Checklist contenu
-
-✅ Question d'analyse claire\
-✅ Titre qui annonce le résultat\
-✅ Sous-titre informatif\
-✅ Axes/légendes étiquetés\
-✅ Source mentionnée\
-✅ Message percutant
-
-### 📤 Livrable attendu
-
--   **Lien** vers dataviz Datawrapper
--   **Capture d'écran** PNG\
--   **Bonus :** Google Sheets avec pivot table
-:::
-
-::: {.column width="50%"}
-![](images/final_result.png)
-
-### 🔑 Le secret
-
-**Vos données brutes + Pivot table = Histoire passionnante !**
-
-Transformez vos chiffres en récit visuel 📈✨
-:::
-:::::
 
 # Des questions ? {background-color="#173541"}
-
-Contact : [samuel.goeta\@sciencespo-aix.fr](mailto:samuel.goeta@sciencespo-aix.fr) :::::: :::::::: ::::::::::::::::::::::::::
+::::::::
