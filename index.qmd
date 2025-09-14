@@ -68,16 +68,18 @@ Concrètement, vous développerez les compétences suivantes :
 
 Le cours prend la forme d'une **classe inversée** :
 
+<br/>
+
 ::::: columns
 ::: {.column width="50%"}
-### Avant chaque séance
+#### Avant chaque séance
 
 -   Visionnage des enseignements magistraux sur **Amupod**
 -   Préparation des notions clés
 :::
 
 ::: {.column width="50%"}
-### Pendant chaque séance
+#### Pendant chaque séance
 
 1.  **Quiz** d'évaluation + explications
 2.  **Activité** de mise en pratique
@@ -108,7 +110,7 @@ La note finale se compose de deux éléments équilibrés :
 
 ::::: columns
 ::: {.column width="50%"}
-### Quiz (/10)
+#### Quiz (/10)
 
 -   Moyenne des quiz de début de séance
 -   Sur la plateforme **Equinox**
@@ -116,7 +118,7 @@ La note finale se compose de deux éléments équilibrés :
 :::
 
 ::: {.column width="50%"}
-### Podcast Disquette (/10)
+#### Podcast Disquette (/10)
 
 -   En groupe de 4-5 personnes
 -   À rendre le **24 octobre 2025**
@@ -141,7 +143,7 @@ Conformément aux préconisations de la convention citoyenne universitaire sur l
 
 ::::: columns
 ::: {.column width="50%"}
-### Quiz : Niveau 0 🚫
+#### Quiz : Niveau 0 🚫
 
 -   **Utilisation interdite**
 -   Évaluations sur Equinox
@@ -149,7 +151,7 @@ Conformément aux préconisations de la convention citoyenne universitaire sur l
 :::
 
 ::: {.column width="50%"}
-### Podcast : Niveau 2 ⚠️
+#### Podcast : Niveau 2 ⚠️
 
 -   **Utilisation limitée**
 -   Amélioration d'un travail produit
@@ -220,13 +222,13 @@ Quelles critiques feriez-vous de ce modèle ?
 
 ## 🎯 Objectifs de l'activité
 
-### Découvrir par la pratique
+#### Découvrir par la pratique
 
 -   La richesse des données publiques sur **data.gouv.fr**
 -   La structure d'une base de données (enregistrements, champs, documentation)
 -   L'utilisation de l'explorateur de données
 
-### Développer un regard critique
+#### Développer un regard critique
 
 -   Trouver la "bonne" donnée
 -   Apprendre à filtrer et analyser
@@ -234,33 +236,29 @@ Quelles critiques feriez-vous de ce modèle ?
 
 # 🍄 Étape 1 : Trouver votre "coin à champignons" (binôme - 30min) {background-color="#173541"}
 
-## 
+## Votre mission
 
-::::: columns
-::: {.column width="60%"}
-### Votre mission
+Identifiez une base de données **riche et prometteuse** sur data.gouv.fr ::::: columns ::: {.column width="60%"}
 
-Identifiez une base de données **riche et prometteuse** sur data.gouv.fr
-
-### Méthode
+#### Méthode
 
 1.  **Explorez les thématiques** : Culture, Sport, Éducation, Transports...
 2.  **Sélectionnez une base** avec plusieurs milliers d'enregistrements
-3.  **Vérifiez la richesse** : informations variées et surprenantes possibles
-:::
+3.  **Vérifiez la richesse** : informations variées et surprenantes possibles :::
 
 ::: {.column width="40%"}
-### Critères d'un bon "coin"
+#### Critères d'un bon "coin"
 
 -   ✅ Documentation claire
 -   ✅ Données "granulaires" avec un grand niveau de détail
 -   ✅ Plusieurs champs intéressants
 -   ✅ Des informations originales
 
-### Livrable
+#### Vous avez trouvé ?
 
 Renseignez dans **Notion** : nom, URL, producteur, nombre d'enregistrements, justification
 :::
+
 :::::
 
 ## Exemple de "coins à champignons"
@@ -269,9 +267,7 @@ Renseignez dans **Notion** : nom, URL, producteur, nombre d'enregistrements, jus
 
 </iframe>
 
-------------------------------------------------------------------------
-
-### 💡Les réflexes devant un jeu de données
+## 💡Les réflexes devant un jeu de données
 
 :::::: columns
 ::: {.column width="30%"}
@@ -299,9 +295,7 @@ Renseignez dans **Notion** : nom, URL, producteur, nombre d'enregistrements, jus
 :::
 ::::::
 
-------------------------------------------------------------------------
-
-### 💡 Conseil avec l'explorateur de données de data.gouv.fr
+## 💡 Conseil avec l'explorateur de données de data.gouv.fr
 
 ::::: columns
 ::: {.column width="40%"}
@@ -321,15 +315,13 @@ Les valeurs les plus fréquentes dans une colonne peuvent vous aider à comprend
 
 # 🎣 Étape 2 : pêche aux faits divers (binôme - 80min) {background-color="#173541"}
 
-## 
-
-::::: columns
-::: {.column width="50%"}
-### Votre mission
+## Votre mission
 
 Utilisez l'**explorateur de données** pour dénicher des informations **insolites, drôles ou surprenantes**
 
-### Techniques de recherche
+::::: columns
+::: {.column width="50%"}
+#### Techniques de recherche
 
 -   **Mots-clés** : termes amusants, noms insolites
 -   **Filtres numériques** : valeurs extrêmes
@@ -338,16 +330,16 @@ Utilisez l'**explorateur de données** pour dénicher des informations **insolit
 :::
 
 ::: {.column width="50%"}
-### Méthode de travail
+#### Méthode de travail
 
 1.  **Lisez la documentation** complète
 2.  **Testez les filtres** : combinaisons variées
 3.  **Triez les données** : cherchez les extrêmes
 4.  **Cherchez certains termes** : découvertes inattendues
 
-### Votre mission : trouver 3 faits divers
+#### Vous avez trouvé ?
 
-Pour chacun : fait formulé, URL, nom du groupe
+Pour chacun, notez dans le formulaire Notion : fait formulé, URL, nom du groupe
 :::
 :::::
 
@@ -355,13 +347,13 @@ Pour chacun : fait formulé, URL, nom du groupe
 
 ::::: columns
 ::: {.column width="50%"}
-### 🏷️ Marques déposées
+#### 🏷️ Marques déposées
 
 > *"En 2020, 6 marques déposées incluent le mot 'merde' dans leur appellation, dont une marque de cosmétique 'Cacachic'"*
 :::
 
 ::: {.column width="50%"}
-### ✈️ Déplacements officiels
+#### ✈️ Déplacements officiels
 
 > *"JP Raffarin comptabilise plus de déplacements (427) en 3 ans que François Mitterrand (356) en 14 ans de présidence"*
 :::
@@ -379,7 +371,7 @@ Pour chacun : fait formulé, URL, nom du groupe
 
 <iframe src="https://samgoeta.notion.site/ebd/26af8843ac5580a196c2d52903c9fc62?v=26af8843ac5580c496ad000ca35fe82c" width="100%" height="600" frameborder="0" allowfullscreen />
 
-### Votez !
+#### Votez !
 
 ```{=html}
 <iframe src="https://samgoeta.notion.site/ebd/26af8843ac5580ffbc2ecfb5095668e0" width="100%" height="600" frameborder="0" allowfullscreen></iframe>
@@ -458,7 +450,6 @@ A la fin du jeu, un temps d'échange permet de partager son expérience et son r
 
 # Consignes pour le podcast Disquette {background-color="#173541"}
 
-
 ## Disquette ?
 
 ::::: columns
@@ -485,46 +476,270 @@ Documentaires, films, livres, BD, romans… tout a sa place dans Disquette.
 
 ::::: columns
 ::: {.column width="50%"}
-### Temps court
+#### Temps court
 
 **8-10 minutes maximum** par groupe/par documentaire pour que cela reste audible
 :::
 
 ::: {.column width="50%"}
-### Format rythmé
+#### Format rythmé
 
 Plusieurs sequences identifiables avec alternance des voix, extraits, jingle...
 
 [Personne ne doit parler seul plus d'une minute]{style="color: #E95459;"}
 
-### Ligne éditoriale
+#### Ligne éditoriale
 
 [Ce podcast est un "media" avec une ligne éditoriale pour le master comme l'est Chicane]{style="color: #E95459;"}
 :::
 :::::
 
-
 ## Déroulement du podcast
-**1. Jingle de debut** |
-[À retrouver ici](https://public.3.basecamp.com/p/TUPJH2ud9g2BQDFWCNa1Dn4A) |
 
-**2. Résumé court** |
-Présenter le documentaire : qui, quoi, quand ? [Max 1min 30]{style="color: #E95459;"} 
-**3. Extraits commentés**
-- Un extrait commenté du documentaire par personne (1min par personne extrait compris)
-- En résumer les enjeux, faire attention à ce que l’on comprenne l’extrait qu’on vient d’entendre (une phrase pour la décrire).
-- Une personne par extrait mais il peut y avoir plusieurs voix, c'est souhaitable même. 
-- Quand l'extrait est en anglais, il faut le doubler.
+1.  **Jingle de début** : [À retrouver ici](https://public.3.basecamp.com/p/TUPJH2ud9g2BQDFWCNa1Dn4A)
 
-**4. À la fin : mise en perspective.** Résumer le “grand enjeu” du doc, voilà ce qu’il nous enseigne des enjeux numériques de l’info’. (1 minutes maximum)
+2.  **Résumé court** \| Présenter le documentaire : qui, quoi, quand ? [Max 1min 30]{style="color: #E95459;"}
 
-**5. Une critique**
+3.  **Extraits commentés**
 
-**6. Jingle de fin uniforme**
+    -   Un extrait commenté du documentaire par personne (1min par personne extrait compris)
 
+    -   En résumer les enjeux, faire attention à ce que l’on comprenne l’extrait qu’on vient d’entendre (une phrase pour la décrire).
+
+    -   Quand l'extrait est en anglais, il faut le doubler.
+
+4.  **À la fin : mise en perspective.** Résumer le “grand enjeu” du doc, voilà ce qu’il nous enseigne des enjeux numériques de l’info’. (1 minutes maximum)
+
+5.  **Une critique**
+
+6.  **Jingle de fin uniforme**
+
+# Séance 3 - La visualisation des données {background-color="#173541"}
+
+## Objectifs de l'exercice
+
+Vous allez produire une dataviz à partir des données que vous avez identifiées lors de la séance précédente.
+
+::::: columns
+::: {.column width="50%"}
+🎯 **Vos missions :**
+
+-   Comprendre la différence entre **données brutes** et **données agrégées**
+
+-   Maîtriser les **tableaux croisés dynamiques** (pivot tables)
+
+-   Choisir **votre propre base de données** à analyser
+
+-   Créer une **dataviz dans Datawrapper**
+
+-   Appliquer les **3 critères** : Rigueur, Lisibilité, Éloquence
+:::
+
+::: {.column width="50%"}
+![](https://datawrapper.de/cdn-cgi/image/quality=85,width=1920,f=auto,fit=cover/https://kirby.datawrapper.de/media/pages/blog/how-to-get-started-with-data-visualization/3b57a60b15-1740123205/Artboard-11-copy.png)
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Données brutes vs données agrégées
+
+**Définition (Wikipedia)** \> Les données brutes sont les données non interprétées émanant d'une source primaire, ayant des caractéristiques liées à celle-ci et qui n'ont été soumises à aucun traitement ou toute autre manipulation.
+
+::::: columns
+::: {.column width="50%"}
+**📈 Des données agrégées**
+
+```         
+| Mois | Montant total |
+| Jan 2024 | 2 450 000 € |
+| Fév 2024 | 1 980 000 € |
+```
+
+✅ Prêtes pour visualisation\
+❌ Perdent le détail
+:::
+
+::: {.column width="50%"}
+** 📋 Des données brutes**
+
+```         
+ID | Objet | Montant | Offres
+2024090 | Nettoyage | 85500 | 4
+2023054 | Bibliothèque | 865653 | 1
+```
+
+✅ Détail maximum\
+❌ **À transformer pour analyser**
+:::
+:::::
+
+## Une ressource pour vous aider à choisir le bon format de dataviz
+
+![](https://datawrapper.de/cdn-cgi/image/quality=85,width=1920,f=auto,fit=cover/https://kirby.datawrapper.de/media/pages/blog/chart-types-guide/d039a8e380-1750069239/datawrapper-visualization-types-poster.png)
+
+Source : "[A friendly guide to choosing a chart type](https://www.datawrapper.de/blog/chart-types-guide) de Datawrapper, un MUST pour choisir le bon format de visualisation en fonction de votre intention"
+
+
+## Les tableaux croisés dynamiques
+
+:::: {.columns}
+
+::: {.column width="50%"}
+Ils sont essentiels pour transformer vos **données brutes** en **données visualisables**
+
+Les tableaux croisés dynamiques permettent de :
+
+-   **Regrouper** par catégories
+-   **Calculer** totaux, moyennes
+-   **Filtrer** données pertinentes
+:::
+
+::: {.column width="50%"}
+![](images/pivot.png)
+:::
+
+:::::
+
+## Comment créer une pivot table
+
+::::: columns
+::: {.column width="50%"}
+### 📂 1. Importer données brutes
+
+-   Google Sheets : Fichier → Importer
+-   Vérifier colonnes bien séparées
+-   Nettoyer données manquantes
+
+### ⚡ 2. Créer la pivot table
+
+-   Sélectionner toutes les données
+-   **Insertion → Tableau croisé dynamique**
+-   Choisir "Nouvelle feuille"
+
+### ⚙️ 3. Configurer
+
+-   **Lignes :** Variable à regrouper
+-   **Valeurs :** Variable à calculer\
+-   **Fonction :** MOYENNE, SOMME, NOMBRE
+
+
+::: {.column width="50%"}
+![](images/pivot_interface.png)
+
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Choisir votre base de données
+
+Je vous conseille d'utiliser les données que vous avez exploré lors de la dernière séance. 
+
+Sinon vous pouvez vous appuyer sur les données identifiées par les autres binômes : 
+<iframe src="/ebd/269f8843ac558054819cea8f617c8f6f?v=269f8843ac5580daba3f000cb32c3e95" width="100%" height="300" frameborder="0" allowfullscreen />
+
+## A vous de produire une dataviz
+
+:::: {.columns}
+
+::: {.column width="40%"}
+![](images/graphex.png)
+:::
+
+::: {.column width="60%"}
+✅ Titre annonce le contenu
+✅ Sous-titre explique la nature des données
+✅ La dataviz fait passer un message
+✅ Le format est adapté à votre intention
+✅ Vous donnez une ou plusieurs clés de lecture
+:::
+
+::::
+------------------------------------------------------------------------
+
+## Évaluation par les pairs
+
+::::: columns
+::: {.column width="50%"}
+### 📤 Dépôt sur Equinox + Évaluation croisée
+
+Chaque groupe évaluera le travail d'un autre selon **3 critères :**
+
+### 🎯 RIGUEUR
+
+-   Nature des données explicite
+-   Échelles appropriées
+-   Source mentionnée
+
+### 👁️ LISIBILITÉ
+
+-   Format adapté au message
+-   Visualisation claire
+-   Guides de lecture efficaces
+
+### 💬 ÉLOQUENCE
+
+-   Message clair et direct
+-   Titre évocateur
+-   Points saillants mis en avant
+
+### 🗣️ Questions à se poser
+
+-   Message immédiatement compréhensible ?
+-   Choix du graphique justifié ?
+-   Éléments qui prêtent à confusion ?
+:::
+
+::: {.column width="50%"}
+![](images/evaluation_criteria.png)
+
+*Grille d'évaluation des 3 critères*
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## À vous de jouer !
+
+::::: columns
+::: {.column width="50%"}
+### 📋 Checklist technique
+
+✅ Base de données choisie\
+✅ Données importées Google Sheets\
+✅ **Pivot table créée et configurée**\
+✅ CSV exporté vers Datawrapper\
+✅ Graphique adapté sélectionné\
+✅ Dataviz publiée
+
+### 📊 Checklist contenu
+
+✅ Question d'analyse claire\
+✅ Titre qui annonce le résultat\
+✅ Sous-titre informatif\
+✅ Axes/légendes étiquetés\
+✅ Source mentionnée\
+✅ Message percutant
+
+### 📤 Livrable attendu
+
+-   **Lien** vers dataviz Datawrapper
+-   **Capture d'écran** PNG\
+-   **Bonus :** Google Sheets avec pivot table
+:::
+
+::: {.column width="50%"}
+![](images/final_result.png)
+
+### 🔑 Le secret
+
+**Vos données brutes + Pivot table = Histoire passionnante !**
+
+Transformez vos chiffres en récit visuel 📈✨
+:::
+:::::
 
 # Des questions ? {background-color="#173541"}
 
-## Des retours ?
-
-Contact : [samuel.goeta\@sciencespo-aix.fr](mailto:samuel.goeta@sciencespo-aix.fr) :::::: ::::::::
+Contact : [samuel.goeta\@sciencespo-aix.fr](mailto:samuel.goeta@sciencespo-aix.fr) :::::: :::::::: ::::::::::::::::::::::::::
