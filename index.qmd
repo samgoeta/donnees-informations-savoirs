@@ -234,6 +234,10 @@ Quelles critiques feriez-vous de ce modèle ?
 -   Apprendre à filtrer et analyser
 -   Dénicher une trouvaille dans une grande base de données
 
+
+## Les faits divers de l'an dernier
+![](images/faits-divers-2025.png)
+
 # 🍄 Étape 1 : Trouver votre "coin à champignons" (binôme - 30min) {background-color="#173541"}
 
 ## Votre mission
@@ -369,8 +373,10 @@ Pour chacun, notez dans le formulaire Notion : fait formulé, URL, nom du groupe
 
 # Étape 3 : Vote et débriefing (10min) {background-color="#173541"}
 
-## Les faits divers de l'an dernier
-![](images/faits-divers-2025.png)
+
+## Les faits divers 
+
+<iframe src="https://samgoeta.notion.site/ebd//3d5f8843ac558043bba1c5239bfbe38c?v=6a0f8843ac5583b688b188a63026b870" width="100%" height="600" frameborder="0" allowfullscreen />
 
 ## Votez !
 
