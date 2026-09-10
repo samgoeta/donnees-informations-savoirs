@@ -608,7 +608,7 @@ Bonnie, huit ans, reçoit Lilypad, une tablette connectée en forme de grenouill
 En 2046, une population humaine vieillissante a construit des robots pour prendre soin d'elle. Carbone et Silicium sont les prototypes d'une nouvelle génération. Avides de découvrir le monde extérieur, ils échappent à leurs créateurs et se retrouvent séparés pendant plusieurs siècles, traversant catastrophes climatiques et bouleversements des sociétés humaines.
 
 [Prix BD Fnac France Inter 2021]{style="color: #E95459;"}
-
+::::
 :::::
 
 ## Vallée du silicium
@@ -680,7 +680,15 @@ Premier album solo du chanteur de Blur et Gorillaz, enregistré dans son studio 
 
 [Rappel : 8 à 10 minutes maximum, personne ne parle seul plus d'une minute]{style="color: #E95459;"}
 
+## Constitution des groupes
 
+Pendant la pause, constituez 6 à 7 groupes 
+
+## Déclaration des groupes
+
+```{=html}
+<iframe src="https://samgoeta.notion.site/ebd//271f8843ac558099a1d2d6f4abd0dc24" width="100%" height="600" frameborder="0" allowfullscreen></iframe>
+```
 
 # Séance 3 - La visualisation des données {background-color="#173541"}
 
